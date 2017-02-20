@@ -1,5 +1,14 @@
 # Python Crop Simulation Environment (PCSE)
 
+## Suitability Overview
+
+Category | Note
+-------- | ----
+Setup    | Setting up PCSE is not difficult to setup, especially if you already have Jupyter Notebooks running.
+Coverage | PCSE lacks some out of the box functionality of other models. For example, fertilization rates will require custom event listeners.
+Documentation | PCSE comes with STELLAR technical documentation.
+Flexibility | PCSE is a robust foundation for crop simulations built with customization in mind.
+
 ## Getting Started
 Install PCSE using anaconda. [Here](http://pcse.readthedocs.io/en/master/installing.html) are the docs.
 
